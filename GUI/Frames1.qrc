@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../FakeVideoDetection/dataset/UADFV_frames/fake_images/0000_fake/0006.png</file>
+  </qresource>
+</RCC>
