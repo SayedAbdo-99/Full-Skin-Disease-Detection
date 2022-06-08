@@ -4,7 +4,8 @@
 <h3>Tools and Techniques:</h3> Python, Google Colab, Tensorflow, Deep learning (CNN and Mobilenet), and QT Designer GUI
 
 # Overview Video
-![game](
+![game](https://github.com/SayedAbdo-99/Full-Skin-Disease-Detection/blob/main/Overview%20Video.gif)
+
 
 # Prototype Video
 ![game](https://github.com/SayedAbdo-99/Full-Skin-Disease-Detection/blob/main/Skin%20Disease%20Detection%20Prototype.gif)
